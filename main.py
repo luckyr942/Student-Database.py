@@ -1,7 +1,6 @@
 student_name = []
 student_number = []
 
-
 def add():
     print('Enter Details')
     name = input('Enter name: ')
